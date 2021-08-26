@@ -1,11 +1,11 @@
 # MultiMirror: Neural Cross-lingual Word Alignment for Multilingual Word Sense Disambiguation
 
 This repo hosts the resources released in [MultiMirror: Neural Cross-lingual Word Alignment for Multilingual Word Sense Disambiguation](https://www.ijcai.org/proceedings/2021/539), 
-our paper accepted at IJCAI 2021. MultiMirror is a sense projection approach for multilingual WSD based on a novel discriminative
+a paper we presented at IJCAI 2021. MultiMirror is a cross-lingual sense projection approach for multilingual WSD based on a novel discriminative
 word alignment model. The sense-tagged datasets it produces lead a standard WSD classifier to achieve state-of-the-art performances
 on established benchmarks in French, German, Italian, Spanish and Japanese.
 
-You can find in *data/mwsd/* instructions to download the generated sense-tagged corpora in the afore-mentioned languages.
+In *data/mwsd/* you can find instructions to download the generated sense-tagged corpora in the afore-mentioned languages.
 Furthermore, *data/alignment/* also reports how to download the manually-annotated word alignments datasets we produced for
 French, German, Italian and Spanish.
 
