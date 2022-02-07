@@ -8,7 +8,6 @@
 
 The format of these data is a simple tsv structured as follows:
 ```
-I have a dog <\t> Io ho un cane <\t> 0-0 1-1 ...
 <source-parallel-sentence> <\t> <target-parallel-sentence> <\t> <source-token>-<target-token> ...
 ```
 Where the final space-separated field lists the tokens aligned. For instance:
