@@ -30,7 +30,7 @@ If you find our resources useful in your work, please cite us with:
 ```
 
 ## License
-This project is released under the CC-BY-NC-SA 4.0 license (see `LICENSE`). If you use SPRING, please put a link to this repo.
+This project is released under the CC-BY-NC-SA 4.0 license (see `LICENSE`).
 
 ## Acknowledgements
 The authors gratefully acknowledge the support of the [ERC Consolidator Grant MOUSSE](http://mousse-project.org) No. 726487 and the [ELEXIS project](https://elex.is/) No. 731015 under the European Union’s Horizon 2020 research and innovation programme.
